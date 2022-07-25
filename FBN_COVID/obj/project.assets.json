@@ -7058,11 +7058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_COVID\\FBN_COVID.csproj",
+      "projectUniqueName": "D:\\DAO\\eeemma\\Git Repos\\covid_endpoint\\FBN_COVID\\FBN_COVID.csproj",
       "projectName": "FBN_COVID",
-      "projectPath": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_COVID\\FBN_COVID.csproj",
+      "projectPath": "D:\\DAO\\eeemma\\Git Repos\\covid_endpoint\\FBN_COVID\\FBN_COVID.csproj",
       "packagesPath": "C:\\Users\\eokon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eokon\\Documents\\DAO\\Projects\\FBN_COVID\\obj\\",
+      "outputPath": "D:\\DAO\\eeemma\\Git Repos\\covid_endpoint\\FBN_COVID\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eokon\\AppData\\Roaming\\NuGet\\NuGet.Config",
